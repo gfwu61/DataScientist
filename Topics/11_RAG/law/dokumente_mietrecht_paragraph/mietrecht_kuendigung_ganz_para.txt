@@ -1,0 +1,78 @@
+=== PARAGRAPH_START: § 573 BGB ===
+[ORIGINALTEXT]
+§ 573 Ordentliche Kündigung des Vermieters
+(1) Der Vermieter kann nur kündigen, wenn er ein berechtigtes Interesse an der Beendigung des Mietverhältnisses hat. Die Kündigung zum Zwecke der Mieterhöhung ist ausgeschlossen.
+(2) Ein berechtigtes Interesse des Vermieters an der Beendigung des Mietverhältnisses liegt insbesondere vor, wenn
+1. der Mieter seine vertraglichen Pflichten schuldhaft nicht unerheblich verletzt hat,
+2. der Vermieter die Räume als Wohnung für sich, seine Familienangehörigen oder Angehörige seines Haushalts benötigt oder
+3. der Vermieter durch die Fortsetzung des Mietverhältnisses an einer angemessenen wirtschaftlichen Verwertung des Grundstücks gehindert und dadurch erhebliche Nachteile erleiden würde; die Möglichkeit, durch eine anderweitige Vermietung als Wohnraum eine höhere Miete zu erzielen, bleibt außer Betracht; der Vermieter kann sich auch nicht darauf berufen, dass er die Mieträume im Zusammenhang mit einer beabsichtigten oder nach Überlassung an den Mieter erfolgten Begründung von Wohnungseigentum veräußern will.
+(3) Die Gründe für ein berechtigtes Interesse des Vermieters sind in dem Kündigungsschreiben anzugeben. Andere Gründe werden nur berücksichtigt, soweit sie nachträglich entstanden sind.
+(4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+
+[ERKLÄRUNG]
+Vermieter können ein Mietverhältnis nicht ohne triftigen Grund kündigen. Sie benötigen immer ein "berechtigtes Interesse". Das Gesetz nennt drei Hauptgründe: Eigenbedarf (für sich oder nahe Familie), erhebliche Pflichtverletzungen des Mieters (z. B. ständige Mietrückstände oder massive Störung des Hausfriedens) oder die Hinderung an einer angemessenen wirtschaftlichen Verwertung des Gebäudes. Eine Kündigung, nur um danach die Miete zu erhöhen, ist ausdrücklich verboten. Der Grund für die Kündigung muss zwingend direkt im Kündigungsschreiben stehen, sonst ist sie unwirksam. Vertragliche Klauseln, die diese Mieterrechte einschränken, sind ungültig.
+
+[TYPISCHE_NUTZERFRAGEN]
+- Wann darf mein Vermieter mir ordentlich kündigen?
+- Kann mich der Vermieter rausschmeißen, um die Miete zu erhöhen?
+- Was sind die Voraussetzungen für eine Kündigung wegen Eigenbedarf?
+- Muss der Vermieter einen Grund in das Kündigungsschreiben schreiben?
+- Was passiert, wenn ich meine Miete nicht bezahle, darf der Vermieter kündigen?
+- Kündigung wegen wirtschaftlicher Verwertung des Hauses durch den Vermieter.
+=== PARAGRAPH_END ===
+
+=== PARAGRAPH_START: § 573a BGB ===
+[ORIGINALTEXT]
+§ 573a Erleichterte Kündigung des Vermieters
+(1) Ein Mietverhältnis über eine Wohnung in einem vom Vermieter selbst bewohnten Gebäude mit nicht mehr als zwei Wohnungen kann der Vermieter auch kündigen, ohne dass es eines berechtigten Interesses im Sinne des § 573 bedarf. Die Kündigungsfrist verlängert sich in diesem Fall um drei Monate.
+(2) Absatz 1 gilt entsprechend für Wohnraum innerhalb der vom Vermieter selbst bewohnten Wohnung, sofern der Wohnraum nicht nach § 549 Abs. 2 Nr. 2 vom Mieterschutz ausgenommen ist.
+(3) In dem Kündigungsschreiben ist anzugeben, dass die Kündigung auf die Voraussetzungen des Absatzes 1 oder 2 gestützt wird.
+(4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+
+[ERKLÄRUNG]
+Hierbei handelt es sich um die sogenannte "Einliegerwohnung-Regelung". Wenn der Vermieter im selben Haus wohnt wie der Mieter und das Haus insgesamt nicht mehr als zwei Wohnungen hat (z. B. ein Zweifamilienhaus oder Einliegerwohnung), hat der Vermieter ein Sonderkündigungsrecht. Er braucht in diesem speziellen Fall *keinen* Grund (wie Eigenbedarf) anzugeben. Als Ausgleich für den Mieter verlängert sich die gesetzliche Kündigungsfrist jedoch automatisch um zusätzliche 3 Monate. Das Gleiche gilt, wenn man ein Zimmer innerhalb der Wohnung des Vermieters gemietet hat. Der Vermieter muss im Schreiben ausdrücklich erwähnen, dass er sich auf § 573a BGB beruft.
+
+[TYPISCHE_NUTZERFRAGEN]
+- Mein Vermieter wohnt im selben Haus mit mir, kann er mir ohne Grund kündigen?
+- Was ist die erleichterte Kündigung bei Einliegerwohnungen?
+- Wie verlängert sich die Kündigungsfrist bei einem Zweifamilienhaus, wenn der Vermieter dort wohnt?
+- Muss der Vermieter bei einer erleichterten Kündigung reinschreiben, dass er dort selbst wohnt?
+- Sonderkündigungsrecht des Vermieters ohne berechtigtes Interesse.
+=== PARAGRAPH_END ===
+
+=== PARAGRAPH_START: § 573c BGB ===
+[ORIGINALTEXT]
+§ 573c Fristen der ordentlichen Kündigung
+(1) Die Kündigung ist spätestens am dritten Werktag eines Kalendermonats zum Ablauf des übernächsten Monats zulässig. Die Kündigungsfrist für den Vermieter verlängert sich nach fünf und acht Jahren seit der Überlassung des Wohnraums um jeweils drei Monate.
+(2) Bei Wohnraum, der nur zum vorübergehenden Gebrauch vermietet worden ist, kann eine kürzere Kündigungsfrist vereinbart werden.
+(3) Bei Wohnraum nach § 549 Abs. 2 Nr. 2 ist die Kündigung spätestens am 15. eines Monats zum Ablauf dieses Monats zulässig.
+(4) Eine zum Nachteil des Mieters von Absatz 1 oder 3 abweichende Vereinbarung ist unwirksam.
+
+[ERKLÄRUNG]
+Diese Vorschrift regelt die Fristen für eine ordentliche Kündigung. Standardmäßig beträgt die Kündigungsfrist 3 Monate (Kündigung muss bis zum 3. Werktag eines Monats eingehen, um zum Ablauf des übernächsten Monats gültig zu sein). Für den *Vermieter* verlängert sich diese Frist jedoch abhängig von der Wohndauer des Mieters: Wohnt der Mieter bereits 5 Jahre dort, beträgt die Frist für den Vermieter 6 Monate. Ab 8 Jahren Wohndauer beträgt sie 9 Monate. Für den Mieter bleibt sie meistens bei 3 Monaten. Bei Verträgen auf vorübergehenden Gebrauch oder möblierten Zimmern in der Vermieterwohnung gelten deutlich kürzere Fristen (z. B. Kündigung bis zum 15. zum Monatsende).
+
+[TYPISCHE_NUTZERFRAGEN]
+- Wie lange ist die Kündigungsfrist für den Vermieter?
+- Ich wohne seit 5 Jahren in der Wohnung, wie viel Kündigungsfrist habe ich oder mein Vermieter?
+- Welche Kündigungsfrist gilt nach 6 Jahren oder nach 8 Jahren Mietdauer?
+- Bis zu welchem Werktag muss die Kündigung beim Mieter sein?
+- Was bedeutet die Dreitagesfrist (dritter Werktag) bei der Kündigung?
+- Kündigungsfristen bei möblierten Zimmern oder Kurzzeitmiete.
+=== PARAGRAPH_END ===
+
+=== PARAGRAPH_START: § 573d BGB ===
+[ORIGINALTEXT]
+§ 573d Außerordentliche Kündigung mit gesetzlicher Frist
+(1) Kann ein Mietverhältnis außerordentlich mit der gesetzlichen Frist gekündigt werden, so gelten mit Ausnahme der Kündigung gegenüber Erben des Mieters nach § 564 die §§ 573 und 573a entsprechend.
+(2) Die Kündigung ist spätestens am dritten Werktag eines Kalendermonats zum Ablauf des übernächsten Monats zulässig, bei Wohnraum nach § 549 Abs. 2 Nr. 2 spätestens am 15. eines Monats zum Ablauf dieses Monats (gesetzliche Frist). § 573a Abs. 1 Satz 2 findet keine Anwendung.
+(3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+
+[ERKLÄRUNG]
+Diese Norm regelt den Sonderfall der "außerordentlichen Kündigung mit gesetzlicher Frist". Das ist nicht zu verwechseln mit einer fristlosen Kündigung. Sie greift, wenn das Gesetz aus besonderen Gründen (z. B. Tod des Mieters, Verweigerung der Modernisierung) eine außerordentliche Kündigung erlaubt, diese aber nicht fristlos, sondern mit der normalen gesetzlichen Frist (3 Monate) abzuwickeln ist. Wichtig: Die Fristverlängerung der erleichterten Kündigung aus § 573a (plus 3 Monate) gilt hier explizit *nicht*. Auch hier gilt die Frist bis zum 3. Werktag des Monats.
+
+[TYPISCHE_NUTZERFRAGEN]
+- Was ist eine außerordentliche Kündigung mit gesetzlicher Frist?
+- Welche Kündigungsfristen gelten bei außerordentlichen Kündigungen, die nicht fristlos sind?
+- Gilt das Sonderkündigungsrecht bei Tod des Mieters mit den normalen Fristen?
+- Unterschied zwischen fristloser Kündigung und außerordentlicher Kündigung mit gesetzlicher Frist.
+=== PARAGRAPH_END ===
